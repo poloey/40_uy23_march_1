@@ -1,0 +1,11 @@
+posts  belongsto user 
+user has many posts  
+
+
+posts belongsto categories 
+category has many post
+
+comments belongsto post 
+post has many comment 
+
+
